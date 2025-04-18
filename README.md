@@ -25,11 +25,10 @@
 
 </div>
 <br>
-<br>
 
 ---
 
-## **Languages, Libraries, Frameworks & Tools I Work With**
+## **SKILL's Section**
 
 ### **Programming & Scripting Languages**
 
