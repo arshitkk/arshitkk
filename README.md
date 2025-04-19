@@ -6,13 +6,14 @@
 
 - **I'm Arshit Kumar**, a **![JS_Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png) JavaScript** Fanboii and **Full Stack Web Developer** from **INDIA** ![India](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png)
 
-- I'm always curious and excited to **experiment with new tools, frameworks, and ideas** in Software Development.
-- I enjoy **building fun, creative, and meaningful projects** that solve **real-life problems** while sharpening my **skills**.
-- When I'm not **Banging my head at the Laptop Screen**, you'll find me **Singing** & **Playing instruments**, or **Binge-Watching Cat Videos** 😸.
+- I enjoy building **fun, creative, and meaningful projects** that solve **real-life problems**.
+- I'm always curious and excited to **experiment with new Tools, Frameworks, and Ideas** in Web Development.
+- When I’m not **rage-clicking my laptop** and **questioning my life choices**, you’ll find me:
+  - **Singing🎤** 
+  - **🎹Playing instruments🎸**,
+  - **Binge-Watching Cat Videos** 😸.
 
 <br>
-
----
 
 <h2 style="text-align:center;">🤷‍♂️Where to find ME ?</h2>
 <div style="text-align:center;" >
@@ -26,11 +27,9 @@
 </div>
 <br>
 
----
-
 ## **SKILL's Section**
 
-### **Programming & Scripting Languages**
+### **Programming & Scripting Languages:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E4542D?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -43,7 +42,7 @@
 <br>
 <br>
 
-### **Libraries & Frameworks**
+### **Libraries & Frameworks:**
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-282F36?style=flat&logo=react&logoColor=#19D9FF)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=tailwind-css&logoColor=blue)
@@ -55,7 +54,7 @@
 <br>
 <br>
 
-### **Backend Technologies & Databases**
+### **Backend Technologies & Databases:**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -66,7 +65,7 @@
 <br>
 <br>
 
-### **Version Control, Dev Tools & IDEs**
+### **Version Control, Dev Tools & IDEs:**
 
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -77,29 +76,16 @@
 <br>
 <br>
 
-### **Other Tools**
+### **Other Tools:**
 
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat&logo=figma&logoColor=#F24E1E)
 
 ---
 
-## **Fun Facts**
-
-- 🎸 **Musician**:I play GUITAR, UKULELE, and PIANO. Basically If it makes sound, I’ll probably try to play it — even if it’s a toaster!
-- 🎤 **Singing**: I love to sing, even if the neighbors don’t always appreciate my concerts at 3 AM.
-- 🔄 **Continuous Learning**: Coding is my thing. I learn something new every day — usually after breaking things first, then fixing them, and breaking them again!
-
----
-
 ## 🎯 **2025 Hitlist**
 
-2025 is just about to get started, and I’m on an exciting journey to level up my skills! Here’s what I’m focused on:
-
-- 🌱 **Backend Development**: Exploring the world of Node.js, Express, and databases to become a full-stack developer.
-- 🚀 **React Native**: Building mobile apps and expanding my knowledge in React Native to create cross-platform experiences.
-- 💻 **Portfolio Website**: Developing a personal portfolio to showcase my work, progress, and passion for coding.
-- 🌍 **Open Source Contribution**: I’ve always wanted to contribute to open-source, and 2024 is the year I take that step.
-- 🎯 **Continuous Learning**: Enhancing my skills, building cool projects, and staying updated with the latest tech trends.
+- **React Native**: Building mobile apps and expanding my knowledge in React Native to create cross-platform experiences.
+- **Open Source Contribution**: I’ve always wanted to contribute to open-source, and 2025 is the year I take that step.
 
 ---
 
