@@ -32,7 +32,7 @@
 ### **Programming & Scripting Languages:**
 
 ![HTML5](https://img.shields.io/badge/HTML-E4542D?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-0C7BC1?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
