@@ -9,7 +9,7 @@
 - I enjoy building **fun, creative, and meaningful projects** that solve **real-life problems**.
 - I'm always curious and excited to **experiment with new Tools, Frameworks, and Ideas** in Web Development.
 - When I’m not **rage-clicking my laptop** and **questioning my life choices**, you’ll find me:
-  - **Singing🎤** 
+  - **Singing🎤**
   - **🎹Playing instruments🎸**,
   - **Binge-Watching Cat Videos** 😸.
 
@@ -31,8 +31,8 @@
 
 ### **Programming & Scripting Languages:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E4542D?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E4542D?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-0C7BC1?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -61,7 +61,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=1EAD58)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat&logo=supabase&logoColor=3BD08E)
-![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=#FF713E)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 <br>
 <br>
 
@@ -69,8 +71,10 @@
 
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=#FF713E)
 ![Vite](https://img.shields.io/badge/Vite-3D1663?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![OnRender](https://img.shields.io/badge/onrender-000000?style=flat&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-white?style=flat&logo=jupyter&logoColor=#F37626)
 <br>
@@ -181,4 +185,3 @@
   }
 </style>
 </div> -->
-
