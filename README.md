@@ -96,7 +96,7 @@
 
 ## Leetcode Profile
 
-## [![Leetcode Stats](https://leetcard.jacoblin.cool/arshitkk)](https://leetcode.com/JacobLinCool)
+## [![Leetcode Stats](https://leetcard.jacoblin.cool/arshitkk)](https://leetcode.com/arshitkk)
 
 </p>
 <p align="center" style=" display: flex-column; justify-content:center; align-item:start; gap: 20px;"><img style="" height="fit" width="fit" src="https://github-readme-stats.vercel.app/api?username=arshitkk&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
