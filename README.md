@@ -4,11 +4,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=40&pause=900&color=F78F1D&width=435&lines=Hey!" alt="Typing SVG" />
 </a>
 
-- **I'm Arshit Kumar**, a **![JS_Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png) JavaScript** Fanboii and **Full Stack Web Developer** from **INDIA** ![India](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png)
+**I'm Arshit Kumar**, a **![JS_Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png) JavaScript** Fanboii and **Full Stack Web Developer** from **INDIA** ![India](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png)
 
 - I enjoy building **fun, creative, and meaningful projects** that solve **real-life problems**.
-- I'm always curious and excited to **experiment with new Tools, Frameworks, and Ideas** in Web Development.
-- When I’m not **rage-clicking my laptop** and **questioning my life choices**, you’ll find me:
+- I'm always curious and excited to **experiment with new Tools, Frameworks, and Ideas**.
+- Because life isn’t just about _commits_, I also love:
   - **Singing🎤**
   - **🎹Playing instruments🎸**,
   - **Binge-Watching Cat Videos** 😸.
@@ -23,6 +23,7 @@
 [![X (Twitter)](<https://img.shields.io/badge/(Twitter)-000000?logo=X&logoColor=white&style=flat&logoSize=auto>)](https://X.com/arshitKK)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat&logoSize=auto)](https://instagram.com/arshitkk)
 [![Email](https://img.shields.io/badge/-Mail-D14836?logo=Google&logoColor=white&style=flat&logoSize=auto)](mailto:arshitkumar222@gmail.com)
+[![Email](https://img.shields.io/badge/-Leetcode-060606?logo=leetcode&logoColor=orange&style=flat&logoSize=auto)](mailto:arshitkumar222@gmail.com)
 
 </div>
 <br>
@@ -80,21 +81,26 @@
 <br>
 <br>
 
-### **Other Tools:**
+### **Other Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat&logo=figma&logoColor=#F24E1E)
 
 ---
 
-## 🎯 **2025 Hitlist**
+## **2026 Hitlist**
 
 - **React Native**: Building mobile apps and expanding my knowledge in React Native to create cross-platform experiences.
-- **Open Source Contribution**: I’ve always wanted to contribute to open-source, and 2025 is the year I take that step.
+- **Open Source Contribution**: I’ve always wanted to contribute to open-source, and 2026 is the year I take that step.
 
 ---
 
-<p align="center" style=" display: flex-column; justify-content:center; align-item:start; gap: 20px;"><img style="" height="fit" width="fit" src="https://github-readme-stats.vercel.app/api?username=arshitkk&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"><img style="padding:1; " height="131" width="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitkk&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+## Leetcode Profile
+
+## [![Leetcode Stats](https://leetcard.jacoblin.cool/arshitkk)](https://leetcode.com/JacobLinCool)
+
 </p>
+<p align="center" style=" display: flex-column; justify-content:center; align-item:start; gap: 20px;"><img style="" height="fit" width="fit" src="https://github-readme-stats.vercel.app/api?username=arshitkk&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <!-- <img style="padding:1; " height="131" width="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitkk&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"> -->
 
 ---
 
