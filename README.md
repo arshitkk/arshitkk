@@ -23,7 +23,7 @@
 [![X (Twitter)](<https://img.shields.io/badge/(Twitter)-000000?logo=X&logoColor=white&style=flat&logoSize=auto>)](https://X.com/arshitKK)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat&logoSize=auto)](https://instagram.com/arshitkk)
 [![Email](https://img.shields.io/badge/-Mail-D14836?logo=Google&logoColor=white&style=flat&logoSize=auto)](mailto:arshitkumar222@gmail.com)
-[![Email](https://img.shields.io/badge/-Leetcode-060606?logo=leetcode&logoColor=orange&style=flat&logoSize=auto)](mailto:arshitkumar222@gmail.com)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-060606?logo=leetcode&logoColor=orange&style=flat&logoSize=auto)](https://leetcode.com/arshitkk)
 
 </div>
 <br>
