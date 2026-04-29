@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=40&pause=900&color=F78F1D&width=435&lines=Hey!" alt="Typing SVG" />
 </a>
 
-**I'm Arshit Kumar**, a **![](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp&w=16) JavaScript** Fanboii and **Full Stack Web Developer** from **INDIA** ![India](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png)
+**I'm Arshit Kumar**, a **![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/20px-JavaScript-logo.png) JavaScript** Fanboii and **Full Stack Web Developer** from **INDIA** ![India](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png)
 
 - I enjoy building **fun, creative, and meaningful projects** that solve **real-life problems**.
 - I'm always curious and excited to **experiment with new Tools, Frameworks, and Ideas**.
